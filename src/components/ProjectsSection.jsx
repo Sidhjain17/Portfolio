@@ -5,7 +5,7 @@ const projects = [
         id: 1,
         title: "GreenCart",
         description: "Greencart is a modern e-commerce website for groceries and daily essentials, offering a seamless shopping experience with fast delivery and user-friendly design.",    
-        image: "src/assets/project1.png",
+        image: "/project1.png",
         tags: ["React", "Express", "MongoDB"],
         demoUrl: "https://greencart-nine-sandy.vercel.app/",
         githubUrl: "https://github.com/Sidhjain17/greencart"
@@ -14,7 +14,7 @@ const projects = [
         id: 2,
         title: "TextUtils",
         description: "TextUtils is a web application for efficient text manipulation, offering tools like case conversion, word ,character count, extra space removal with a clean and responsive interface.",
-        image: "src/assets/project2.png",
+        image: "/project2.png",
         tags: ["React", "JavaScript", "CSS"],
         demoUrl: "#",
         githubUrl: "https://github.com/Sidhjain17/TextUtils-React"
@@ -23,7 +23,7 @@ const projects = [
         id: 3,
         title: "ARMS",
         description: "Animal Rescue Management System is a web-based platform to manage animal rescue operations, including reporting, tracking, and adoption of rescued animals.",
-        image: "src/assets/project3.png",
+        image: "/project3.png",
         tags: ["React", "Express", "Node.js"],
         demoUrl: "https://ngo-client-eatb.onrender.com",
         githubUrl: "https://github.com/Sidhjain17/NGO"
