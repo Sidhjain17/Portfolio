@@ -41,7 +41,7 @@ export const ContactSection = () => {
                         <Mail className="w-6 h-6 text-primary"/>{""}
                         </div>
                         <div className="">
-                            <h4 className="font-medium">Email</h4>
+                            <h4 className="font-medium flex items-start">Email</h4>
                             <a href="mailto:sidhjain.17@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">sidhjain.17@gmail.com
                             </a>
                         </div>
@@ -52,7 +52,7 @@ export const ContactSection = () => {
                         <Phone className="w-6 h-6 text-primary"/>{""}
                         </div>
                         <div className="">
-                            <h4 className="font-medium">Phone</h4>
+                            <h4 className="font-medium flex items-start">Phone</h4>
                             <a href="tel:+919811622070" className="text-muted-foreground hover:text-primary transition-colors">+91 9811622070
                             </a>
                         </div>
@@ -63,7 +63,7 @@ export const ContactSection = () => {
                         <MapPin className="w-6 h-6 text-primary"/>{""}
                         </div>
                         <div className="">
-                            <h4 className="font-medium">Location</h4>
+                            <h4 className="font-medium flex items-start">Location</h4>
                             <a className="text-muted-foreground hover:text-primary transition-colors">Delhi, India
                             </a>
                         </div>
