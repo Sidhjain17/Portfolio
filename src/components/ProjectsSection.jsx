@@ -23,7 +23,7 @@ const projects = [
         id: 3,
         title: "ARMS",
         description: "Animal Rescue Management System is a web-based platform to manage animal rescue operations, including reporting, tracking, and adoption of rescued animals.",
-        image: "src/assets/project3.png",
+        image: "/project3.png",
         tags: ["React", "Express", "Node.js"],
         demoUrl: "https://ngo-client-eatb.onrender.com",
         githubUrl: "https://github.com/Sidhjain17/NGO"
