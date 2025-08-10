@@ -16,7 +16,7 @@ const projects = [
         description: "TextUtils is a web application for efficient text manipulation, offering tools like case conversion, word ,character count, extra space removal with a clean and responsive interface.",
         image: "/project2.png",
         tags: ["React", "JavaScript", "CSS"],
-        demoUrl: "#",
+        demoUrl: "https://textutils-chi-ten.vercel.app",
         githubUrl: "https://github.com/Sidhjain17/TextUtils-React"
     },
     {
